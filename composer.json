@@ -36,7 +36,7 @@
     ],
     "require": {
         "php": "^8.3",
-        "automa8/ratchet": "^0.4.4",
+        "automa8/ratchet": "dev-master",
         "clue/block-react": "^1.5",
         "clue/reactphp-sqlite": "^1.0",
         "clue/redis-react": "^2.6",
