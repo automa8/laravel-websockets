@@ -81,7 +81,8 @@
         "test": "vendor/bin/phpunit"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "preferred-install": "dist"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
